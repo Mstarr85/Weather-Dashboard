@@ -27,7 +27,8 @@ Built With:
     *The project was built with VScode, materialize, font awesome, jQuery and openweathermap API 
     
 Link to Weather Dashboard
-https://mstarr85.github.io/Weather-Dashboard/
+
+*https://mstarr85.github.io/Weather-Dashboard/
 
 Author: 
     

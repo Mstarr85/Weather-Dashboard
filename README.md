@@ -1,3 +1,6 @@
+<img width="1440" alt="Screen Shot 2020-04-21 at 2 15 14 PM" src="https://user-images.githubusercontent.com/53281244/79899569-fb460280-83da-11ea-9cd1-dc3b7dfbdd71.png">
+
+
 # Weather-Dashboard
 
 This is a current weather application that will give you the current weather conditions for a specific city.

@@ -1,5 +1,7 @@
 <img width="1440" alt="Screen Shot 2020-04-21 at 2 15 14 PM" src="https://user-images.githubusercontent.com/53281244/79899569-fb460280-83da-11ea-9cd1-dc3b7dfbdd71.png">
 
+<img width="1440" alt="Screen Shot 2020-04-21 at 2 15 23 PM" src="https://user-images.githubusercontent.com/53281244/79899583-fe40f300-83da-11ea-988f-ab2c9f01f0b6.png">
+
 
 # Weather-Dashboard
 

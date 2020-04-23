@@ -5,37 +5,60 @@
 
 # Weather-Dashboard
 
-This is a current weather application that will give you the current weather conditions for a specific city.
+## Description
 
-Getting Started: 
+   This is a Current Weather Application that will give you the current weather conditions for a specific city.
 
-    *Upon the Weather-Dashboard landing page you will see search for a city on the left and a blank white section on the right    
+## Installation Instructions 
 
-    *Type in the city of your choice where it says "city name" 
+   * Clone the repo to your local machine 
+   
+   * Open HTML file with default browser 
+   
+                  or
+                  
+   * Click the Github Deployed Link below
+   
+   * Upon arriving to the Weather-Dashboard landing page you will see "Search for a City" on the left and a blank white            section on the right    
 
-    *Click on the magnifying glass with your mouse to display the current weather conditions in the big blank white section of the page
+   * Type in the city of your choice where it says "City Name" 
 
-    *The weather conditions will have the following information:
-    -city,country
-    -utc date and time
-    -conditions
-    -description with icon
-    -temperature 
-    -humidity
+   * Click on the magnifying glass with your mouse to display the current weather conditions in the big blank white section of      the page to the right
 
-About:
+   * The weather conditions will have the following information:
+    - City,Country
+    - UTC date and time
+    - Conditions
+    - Description with icon
+    - Temperature 
+    - Humidity
 
-    *Weather dashboard built using the OpenWeather API to display current weather for user city
 
-Built With: 
+## Technologies Used
 
-    *The project was built with VScode, materialize, font awesome, jQuery and openweathermap API 
+    * HTML
+    * CSS
+    * Materialize
+    * Font Awesome 
+    * jQuery 
+    * Openweathermap API 
     
-Link to Weather Dashboard
+   
+## Github Deployed Link 
 
-*https://mstarr85.github.io/Weather-Dashboard/
+   https://mstarr85.github.io/Weather-Dashboard/
+   
+## Github Repo Link 
 
-Author: 
+## Author 
     
-    *Created by Matthew Starr
+   Matthew Starr
+   
+## License
+
+This project is licensed under the MIT License Copyright (c) 2010-2020 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
